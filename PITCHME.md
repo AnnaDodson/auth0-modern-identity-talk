@@ -275,7 +275,7 @@ Note:
 ---
 ## Implementing Modern Identity
 
-### Build vs Buy
+### Buy vs Build
 
 Note:
 
